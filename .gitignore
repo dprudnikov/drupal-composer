@@ -45,3 +45,6 @@ core/phpunit.xml
 
 # Ignore IDE path.
 .idea
+
+# Ignore IDE path.
+composer.lock
