@@ -1,0 +1,12 @@
+name: Custom Profile
+type: profile
+description: 'Drupal Custom Profile install profile.'
+project: 'custom_profile'
+version: '8.x-1.0'
+core: '8.x'
+dependencies:
+  - devel
+  - examples
+  - admin_toolbar
+distribution:
+  name: Custom Profile

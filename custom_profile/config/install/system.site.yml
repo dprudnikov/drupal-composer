@@ -1,0 +1,5 @@
+name: Drupal console and configuration management
+mail: XXXXX@example.com
+page:
+  front: /user
+
